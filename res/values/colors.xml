@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="sign_up_background">#E6E6E5</color>
+    <color name="sign_up_background_bottom">#D4D4D4</color>
+    <color name="text_light">#AEAEAE</color>
+    <color name="sign_up_text_link">#3797C7</color>
+    
+    <color name="text">#1E1E1E</color>
+    <color name="edit_text_cursor">#A6A6A6</color>
+    <color name="edit_text_outer">#959595</color>
+    <color name="edit_text_inner">#EDEDED</color>
+    <color name="edit_text_background">#F8F8F8</color>
+</resources>
